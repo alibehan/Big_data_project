@@ -1,0 +1,4 @@
+'''confluent-kafka==1.8.2
+reactivex==4.0.0
+sseclient==0.0.27
+'''
