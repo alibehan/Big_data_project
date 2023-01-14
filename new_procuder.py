@@ -43,7 +43,7 @@ def main(appied):
 
     while True:
         for city_name in ['Quetta','Islamabad','Karachi','Murree','Peshawar ']:
-            appied ='86ed597118d523eb5639434d70e1747b'
+            appied ='APIKEY'
 
             weather_api_endpoint = f'http://api.openweathermap.org/data/2.5/weather?q={city_name}&units=imperial&appid={appied}'
 
