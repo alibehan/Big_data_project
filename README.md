@@ -22,7 +22,7 @@
 ### Install docker desktop https://www.docker.com/products/docker-desktop/
 
 #### Create docker compose yml file in you project folder. In docker yml file put the configuration of containers and brocker.the respective configuration of containers is available in docker compose yml file in respository.you can see from there.
-### to run  and stop the docker compose with containers run the the following commands in terminal of pycharm or any other development environment
+### to run  and stop the docker compose with containers. Run the the following commands in terminal of pycharm or any other development environment
 ### docker compose up 
 ### docker compose down -v
 
